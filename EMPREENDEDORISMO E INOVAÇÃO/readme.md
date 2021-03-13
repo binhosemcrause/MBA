@@ -40,3 +40,5 @@
 - Crowdfunding
 
 -> Entrega do prototipo: 30.05.2020
+
+brunaandreata@gmail.com

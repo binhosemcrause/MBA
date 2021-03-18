@@ -40,3 +40,14 @@ Professora:  REGINA CLAUDIA CANTELE
 4. Previsão financeiro em cima de quantas pessoas vão fazer a prova
 
 
+# Aula 2 - 15.03.2021
+
+- Neo4J
+- MongoDB
+
+
+mongo "mongodb+srv://cluster0-mrrrc.gcp.mongodb.net/test" --username <seu usuario cadastrado>
+
+
+
+
